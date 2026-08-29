@@ -1,13 +1,13 @@
-## 用于创建mods的API
+## API for Creating Mods
 
-## 1)  关于存储库
+## 1) About the Repository
 
-我已经整理了一个预制件的集合，您可能需要为游戏创建修改，不要一起饿死。
+I have compiled a collection of prefabs you might need to create mods for the game, so you don't have to start from scratch.
 
-## 2)  更新和可用性
+## 2) Updates and Availability
 
-我会尝试尽可能经常更新此存储库，并将其翻译成不同的语言。
+I will try to update this repository as frequently as possible and translate it into different languages.
 
-## 3)  连接
+## 3) Contact
 
-如果您还有任何问题，请在"问题"选项卡中询问。
+If you have any questions, please ask in the "Issues" tab.
