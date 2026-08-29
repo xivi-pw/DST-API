@@ -12,6 +12,8 @@ I will try to update this repository as frequently as possible and translate it 
 
 If you have any questions, please ask in the "Issues" tab.
 
+------------------------------------------------------------
+
 ## 🇯🇵 MOD作成用API
 
 ## 1) リポジトリについて
@@ -25,6 +27,8 @@ If you have any questions, please ask in the "Issues" tab.
 ## 3) お問い合わせ
 
 ご質問などがございましたら、「Issues」タブにてお知らせください。
+
+------------------------------------------------------------
 
 ## 🇷🇺 API для создания модов
 
